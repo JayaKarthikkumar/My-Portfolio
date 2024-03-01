@@ -1,0 +1,11 @@
+.icons-social {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .fa-md {
+    font-size: 2rem; /* Adjust the size as needed */
+    margin: 0 10px; /* Add spacing between icons */
+  }
+  
